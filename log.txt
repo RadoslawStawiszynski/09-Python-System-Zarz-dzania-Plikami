@@ -1,0 +1,4 @@
+[2023-11-25 16:10:32] Utworzono plik: C:\Users\rados\Desktop\STUDIA INFA\ROK 1 Sem 2\Systemy_operacyjne_Systemy_zarzadzania_sprzetem_oraz_aplikacjami_komputera-Projekt\4 - Programowanie\3-System_zarzadzania-plikami\files\plik_1.txt
+[2023-11-25 16:14:48] Utworzono katalog: /files_2/
+[2023-11-25 16:19:36] Wyœwietlono pliki w katalogu: C:\
+[2023-11-25 16:26:09] Wyœwietlono pliki w katalogu: c:/

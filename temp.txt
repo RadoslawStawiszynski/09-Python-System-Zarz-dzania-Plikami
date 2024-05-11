@@ -1,0 +1,27 @@
+
+# Przykładowe użycie:
+file_manager = FileManager()
+
+# Tworzenie pliku
+file_manager.create_file("example.txt", "To jest przykładowa zawartość pliku.")
+
+# Tworzenie katalogu
+file_manager.create_directory("example_directory")
+
+# Przeglądanie plików w katalogu
+file_manager.list_files()
+
+# Modyfikacja pliku
+file_manager.modify_file("example.txt", "Nowa zawartość pliku.")
+
+# Kopiowanie pliku
+file_manager.copy_file("example.txt", "example_copy.txt")
+
+# Usuwanie pliku
+file_manager.delete_file("example_copy.txt")
+
+# Kopiowanie katalogu
+file_manager.copy_directory("example_directory", "example_directory_copy")
+
+# Usuwanie katalogu
+file_manager.delete_directory("example_directory_copy")
